@@ -6,4 +6,4 @@ categories: jekyll update
 published: true
 ---
 
-It's coming soon
+It's coming soon.
